@@ -1,0 +1,4 @@
+name: Devtest
+version: '${project.version}'
+main: me.lewi.devtest.Devtest
+api-version: 1.19
